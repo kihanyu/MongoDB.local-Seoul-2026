@@ -1,5 +1,5 @@
 # MongoDB.local Seoul 2026
-\
+
 ## [세션 1] RDBMS에서 NoSQL(MongoDB)로 전환하는 엔터프라이즈 과제
 
 * **연사**: 류수미 (Open 신어 솔루션즈 아키텍트, 17년 차 DB 엔지니어)
